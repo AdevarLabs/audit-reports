@@ -10,9 +10,9 @@
 
 ---
 
-> Welcome to the official repository of public security audit reports conducted by **Adevar Labs**. At our core, we believe that transparency is fundamental to building a more secure digital ecosystem. This repository serves as a public archive of the security assessments we have performed.
+ Welcome to the official repository of public security audit reports conducted by **Adevar Labs**. At our core, we believe that transparency is fundamental to building a more secure digital ecosystem. This repository serves as a public archive of the security assessments we have performed.
 
-> **Important:** All reports published here are done so with the full consent and approval of our clients. We are grateful for their commitment to security and transparency.
+ **Important:** All reports published here are done so with the full consent and approval of our clients. We are grateful for their commitment to security and transparency.
 
 ## Repository Structure
 
