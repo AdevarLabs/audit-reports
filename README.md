@@ -39,9 +39,9 @@ The information in the audit reports is provided "as is" and is based on the sco
 
 Interested in having your project audited by our team of experts?
 
-* **Website:** [adevarlabs.com](https://www.adevarlabs.com)
-* **Email Us:** [contact@adevarlabs.com](mailto:contact@adevarlabs.com)
-* **Follow us on X (Twitter):** [@AdevarLabs](https://twitter.com/AdevarLabs)
+* **Request a Quote:** [Request Form](https://www.adevarlabs.com/request-audit)
+* **Contact Us:** on [Telegram](https://t.me/adevarlabs)
+* **Follow us on X (Twitter):** [@AdevarLabs](https://twitter.com/AdevarLabs) 
 * **Connect on LinkedIn:** [AdevarLabs](https://www.linkedin.com/company/adevarlabs)
 
 ---
