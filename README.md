@@ -14,6 +14,19 @@
 
  **Important:** All reports published here are done so with the full consent and approval of our clients. We are grateful for their commitment to security and transparency.
 
+| Name | Chain | Type | Date | Report |
+|---|---|---|---|---|
+| Altura NavVault | Solana | DeFi | 2025-12-17 | [PDF](reports/2025-12-17_Altura_NavVault_audit_report.pdf) |
+| GLAM Integration Patches | Solana | Infrastructure | 2025-12-15 | [PDF](reports/2025-12-15_GLAM_integration_patches_audit_report.pdf) |
+| DoubleZero Passport Sentinel | Solana | Infrastructure | 2025-11-18 | [PDF](reports/2025-11-18_DoubleZero_Passport_Sentinel_audit_report.pdf) |
+| Carrot Lend Clend Vaults | Solana | Lending | 2025-11-14 | [PDF](reports/2025-11-14_Carrot_Lend_Clend_Vaults_audit_report.pdf) |
+| DoubleZero Converter Program | Solana | Infrastructure | 2025-11-13 | [PDF](reports/2025-11-13_DoubleZero_Converter_Program_audit_report.pdf) |
+| DoubleZero Revenue Distribution | Solana | Infrastructure | 2025-11-12 | [PDF](reports/2025-11-12_DoubleZero_Revenue_Distribution_audit_report.pdf) |
+| Trepa Solana Program | Solana | Application | 2025-11-10 | [PDF](reports/2025-11-10_Trepa_audit_report.pdf) |
+| GLAM Protocol | Solana | DeFi Infrastructure | 2025-11-07 | [PDF](reports/2025-11-07_GLAM_audit_report.pdf) |
+| Loopscale Periphery Integrations and Upgrades | Solana | Lending | 2025-07-31 | [PDF](reports/2025-07-31_Loopscale_Periphery_Integrations_and_Upgrades.pdf) |
+| M0 Extensions | Solana | Token Infrastructure | 2025-07-02 | [PDF](reports/2025-07-02_M0_MExtensions_audit_report.pdf) |
+
 ## Repository Structure
 
 To maintain clarity and ease of access, all reports use the following naming structure: `YYYY-MM-DD_Project-Name_audit_report.pdf`
