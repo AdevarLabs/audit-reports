@@ -19,6 +19,7 @@
 | Ignition Stake Pool | Fogo | DeFi | 2026-01-12 | [PDF](reports/2026-01-12_Ignition_Stake_Pool_Solana_audit_report.pdf) |
 | Altura NavVault | Solana | DeFi | 2025-12-17 | [PDF](reports/2025-12-17_Altura_NavVault_audit_report.pdf) |
 | GLAM Integration Patches | Solana | Infrastructure | 2025-12-15 | [PDF](reports/2025-12-15_GLAM_integration_patches_audit_report.pdf) |
+| Valiant | Fogo | DeFi DEX | 2025-12-05 | [PDF](reports/2025-12-05_Valiant_audit_report.pdf) |
 | DoubleZero Passport Sentinel | Solana | Infrastructure | 2025-11-18 | [PDF](reports/2025-11-18_DoubleZero_Passport_Sentinel_audit_report.pdf) |
 | Carrot Lend Clend Vaults | Solana | DeFi, Lending | 2025-11-14 | [PDF](reports/2025-11-14_Carrot_Lend_Clend_Vaults_audit_report.pdf) |
 | DoubleZero Converter Program | Solana | Infrastructure | 2025-11-13 | [PDF](reports/2025-11-13_DoubleZero_Converter_Program_audit_report.pdf) |
