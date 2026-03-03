@@ -16,6 +16,7 @@
 
 | Name | Chain | Type | Date | Report |
 |---|---|---|---|---|
+| Indentura Vault | Solana | DeFi Vault | 2026-02-17 | [PDF](reports/2026-02-17_Indentura_Private_Credit_Vault_audit_report.pdf) |
 | GLAM SingleAssetVault | Solana | DeFi Infrastructure | 2026-02-07 | [PDF](reports/2026-02-07_GLAM_SingleAssetVault_audit_report.pdf) |
 | Ignition Stake Pool | Fogo | DeFi | 2026-01-12 | [PDF](reports/2026-01-12_Ignition_Stake_Pool_Solana_audit_report.pdf) |
 | Altura NavVault | Solana | DeFi | 2025-12-17 | [PDF](reports/2025-12-17_Altura_NavVault_audit_report.pdf) |
