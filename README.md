@@ -21,6 +21,7 @@
 | Ignition Stake Pool | Fogo | DeFi | 2026-01-12 | [PDF](reports/2026-01-12_Ignition_Stake_Pool_Solana_audit_report.pdf) |
 | Altura NavVault | Solana | DeFi | 2025-12-17 | [PDF](reports/2025-12-17_Altura_NavVault_audit_report.pdf) |
 | GLAM Integration Patches | Solana | Infrastructure | 2025-12-15 | [PDF](reports/2025-12-15_GLAM_integration_patches_audit_report.pdf) |
+| Pact Governance | Aptos | Governance | 2025-12-12 | [PDF](reports/2025-12-12_Pact_Governance_audit_report.pdf) |
 | Valiant | Fogo | DeFi DEX | 2025-12-05 | [PDF](reports/2025-12-05_Valiant_audit_report.pdf) |
 | DoubleZero Passport Sentinel | Solana | Infrastructure | 2025-11-18 | [PDF](reports/2025-11-18_DoubleZero_Passport_Sentinel_audit_report.pdf) |
 | Carrot Lend Clend Vaults | Solana | DeFi, Lending | 2025-11-14 | [PDF](reports/2025-11-14_Carrot_Lend_Clend_Vaults_audit_report.pdf) |
@@ -28,6 +29,7 @@
 | DoubleZero Revenue Distribution | Solana | Infrastructure | 2025-11-12 | [PDF](reports/2025-11-12_DoubleZero_Revenue_Distribution_audit_report.pdf) |
 | Trepa Solana Program | Solana | Prediction Markets | 2025-11-10 | [PDF](reports/2025-11-10_Trepa_audit_report.pdf) |
 | GLAM Protocol | Solana | DeFi Infrastructure | 2025-11-07 | [PDF](reports/2025-11-07_GLAM_audit_report.pdf) |
+| Pact Protocol on Aptos | Aptos | DeFi Infrastructure | 2025-10-20 | [PDF](reports/2025-10-20_Pact_Protocol_on_Aptos_audit_report.pdf) |
 | LiFi Zapps | EVM | DeFi Infrastructure | 2025-10-10 | [PDF](reports/2025-10-10_LiFi_Zapps_VM_audit_report.pdf)
 | Loopscale Periphery Integrations and Upgrades | Solana | DeFi, Lending | 2025-07-31 | [PDF](reports/2025-07-31_Loopscale_Periphery_Integrations_and_Upgrades.pdf) |
 | M0 Extensions | Solana | Stablecoin Infrastructure | 2025-07-02 | [PDF](reports/2025-07-02_M0_MExtensions_audit_report.pdf) |
