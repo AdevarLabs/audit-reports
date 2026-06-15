@@ -16,6 +16,7 @@
 
 | Name | Chain | Type | Date | Report |
 |---|---|---|---|---|
+| Spiko Solana Minter | Solana | RWA, Tokenization | 2026-06-12 | [PDF](reports/2026-06-12_Spiko_Solana_Minter_audit_report.pdf) |
 | GLAM Security Enhancements | Solana | DeFi Infrastructure | 2026-04-07 | [PDF](reports/2026-04-07_GLAM_Security_Enhancements_audit_report.pdf) |
 | ORO Protocol | Solana | DeFi, Liquid Staking | 2026-03-23 | [PDF](reports/2026-03-23_ORO_Protocol_audit_report.pdf) |
 | DeGate Solana LP Handler | Solana | DeFi | 2026-03-20 | [PDF](reports/2026-03-20_DeGate_Solana_LP_Handler_audit_report.pdf) |
