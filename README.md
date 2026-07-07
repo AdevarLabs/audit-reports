@@ -17,6 +17,7 @@
 | Name | Chain | Type | Date | Report |
 |---|---|---|---|---|
 | Fystack Apex Backend | Web2 | Backend Infrastructure | 2026-06-17 | [PDF](reports/2026-06-17_Fystack_Apex_Backend_audit_report.pdf) |
+| Crafts Arcium Fundraising Program | Solana | DeFi, Fundraising | 2026-06-16 | [PDF](reports/2026-06-16_Crafts_Arcium_Fundraising_Program_audit_report.pdf) |
 | Spiko Solana Minter | Solana | RWA, Tokenization | 2026-06-12 | [PDF](reports/2026-06-12_Spiko_Solana_Minter_audit_report.pdf) |
 | GLAM Security Enhancements | Solana | DeFi Infrastructure | 2026-04-07 | [PDF](reports/2026-04-07_GLAM_Security_Enhancements_audit_report.pdf) |
 | ORO Protocol | Solana | DeFi, Liquid Staking | 2026-03-23 | [PDF](reports/2026-03-23_ORO_Protocol_audit_report.pdf) |
