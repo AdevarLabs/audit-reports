@@ -16,6 +16,7 @@
 
 | Name | Chain | Type | Date | Report |
 |---|---|---|---|---|
+| Hekaton Agent Vault | Solana | DeFi Vault, Agent Trading | 2026-08-21 | [PDF](reports/2026-08-21_Hekaton_Agent_Vault_audit_report.pdf) |
 | Fystack Apex Backend | Web2 | Backend Infrastructure | 2026-06-17 | [PDF](reports/2026-06-17_Fystack_Apex_Backend_audit_report.pdf) |
 | Crafts Arcium Fundraising Program | Solana | DeFi, Fundraising | 2026-06-16 | [PDF](reports/2026-06-16_Crafts_Arcium_Fundraising_Program_audit_report.pdf) |
 | Spiko Solana Minter | Solana | RWA, Tokenization | 2026-06-12 | [PDF](reports/2026-06-12_Spiko_Solana_Minter_audit_report.pdf) |
