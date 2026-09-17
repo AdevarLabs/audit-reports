@@ -23,6 +23,7 @@
 | GLAM Security Enhancements | Solana | DeFi Infrastructure | 2026-04-07 | [PDF](reports/2026-04-07_GLAM_Security_Enhancements_audit_report.pdf) |
 | ORO Protocol | Solana | DeFi, Liquid Staking | 2026-03-23 | [PDF](reports/2026-03-23_ORO_Protocol_audit_report.pdf) |
 | DeGate Solana LP Handler | Solana | DeFi | 2026-03-20 | [PDF](reports/2026-03-20_DeGate_Solana_LP_Handler_audit_report.pdf) |
+| Aspan Finance | EVM, BSC | DeFi, Stablecoin, Liquid Staking | 2026-03-19 | [PDF](reports/2026-03-19_Aspan_Finance_audit_report.pdf) |
 | Indentura Vault | Solana | DeFi Vault | 2026-02-17 | [PDF](reports/2026-02-17_Indentura_Private_Credit_Vault_audit_report.pdf) |
 | GLAM SingleAssetVault | Solana | DeFi Infrastructure | 2026-02-07 | [PDF](reports/2026-02-07_GLAM_SingleAssetVault_audit_report.pdf) |
 | M0 Liquidity Delivery | Solana | DeFi Infrastructure | 2026-01-23 | [PDF](reports/2026-01-23_M0_Liquidity_Delivery_audit_report.pdf) |
