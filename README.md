@@ -12,6 +12,7 @@ Newest first. Click a PDF to read the full report.
 
 | Project | Chain | Type | Date | Report |
 |---|---|---|---|---|
+| Neutral Trade | Solana | DeFi Vault, Asset Management | 2026<br>Oct&nbsp;3 | [PDF](reports/2026-10-03_Neutral_Trade_audit_report.pdf) |
 | Hekaton Agent Vault | Solana | DeFi Vault, Agent Trading | 2026<br>Aug&nbsp;21 | [PDF](reports/2026-08-21_Hekaton_Agent_Vault_audit_report.pdf) |
 | Fystack Apex Backend | Web2 | Backend Infrastructure | 2026<br>Jun&nbsp;17 | [PDF](reports/2026-06-17_Fystack_Apex_Backend_audit_report.pdf) |
 | Crafts Arcium Fundraising Program | Solana | DeFi, Fundraising | 2026<br>Jun&nbsp;16 | [PDF](reports/2026-06-16_Crafts_Arcium_Fundraising_Program_audit_report.pdf) |
