@@ -26,7 +26,7 @@ Newest first. Click a PDF to read the full report.
 | M0 Liquidity Delivery | Solana | DeFi Infrastructure | 2026<br>Jan&nbsp;23 | [PDF](reports/2026-01-23_M0_Liquidity_Delivery_audit_report.pdf) |
 | M0 Portal | EVM<br>Solana | DeFi Infrastructure | 2026<br>Jan&nbsp;21 | [PDF](reports/2026-01-21_M0_Portal_audit_report.pdf) |
 | Ignition Stake Pool | Fogo | DeFi | 2026<br>Jan&nbsp;12 | [PDF](reports/2026-01-12_Ignition_Stake_Pool_Solana_audit_report.pdf) |
-| Altura NavVault | Solana | DeFi | 2025<br>Dec&nbsp;17 | [PDF](reports/2025-12-17_Altura_NavVault_audit_report.pdf) |
+| Altura NavVault | EVM | DeFi | 2025<br>Dec&nbsp;17 | [PDF](reports/2025-12-17_Altura_NavVault_audit_report.pdf) |
 | GLAM Integration Patches | Solana | Infrastructure | 2025<br>Dec&nbsp;15 | [PDF](reports/2025-12-15_GLAM_integration_patches_audit_report.pdf) |
 | Pact Governance | Aptos | Governance | 2025<br>Dec&nbsp;12 | [PDF](reports/2025-12-12_Pact_Governance_audit_report.pdf) |
 | Valiant | Fogo | DeFi DEX | 2025<br>Dec&nbsp;5 | [PDF](reports/2025-12-05_Valiant_audit_report.pdf) |
